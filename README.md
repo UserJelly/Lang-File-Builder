@@ -12,5 +12,4 @@ Step2. drag launch Script and Class file to your content pack subdirectory. like
 Step3. click launch script run the class file.
 Step4. the process will generat a file names "LangFile.lang". It is your NameSpaceID document.
 
-It is my first programe
 By Jz.
